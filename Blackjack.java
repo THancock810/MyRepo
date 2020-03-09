@@ -137,6 +137,9 @@ public class Blackjack {
                 else {
                     System.out.println("Invalid input!\nPlease enter an integer value between 1 and 4.\n");
                     getCard = false;
+
+
+                    //change qaaaaaaaaaaaaaa
                 }
             }
         }
